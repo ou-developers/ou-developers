@@ -3,7 +3,10 @@
 OCI Delivery GitHub houses projects intended to be examples or for instructional purposes, and not generally intended for use in production by our customers.
 
 [![License: UPL](https://img.shields.io/badge/license-UPL-green)](https://img.shields.io/badge/license-UPL-green)
-## link to OCI Courses
+
+![OCI COURSES](oci.png)
+
+## Link to OCI Courses
 
 [Become an OCI Foundations Associate](https://learn.oracle.com/ols/learning-path/become-an-oci-foundations-associate/35644/108448)
 
