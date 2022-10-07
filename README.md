@@ -4,7 +4,7 @@ OCI Delivery GitHub houses projects intended to be examples or for instructional
 
 [![License: UPL](https://img.shields.io/badge/license-UPL-green)](https://img.shields.io/badge/license-UPL-green)
 
-![OCI COURSES](oci.png)
+![OCI COURSES](OCI.png)
 
 ## Link to OCI Courses
 
